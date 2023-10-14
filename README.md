@@ -10,5 +10,5 @@
 -Coroutines
 -MapKit
 ## Скриншоты приложения
-
+![](app/src/main/res/drawable/photo_5285288739465187553_y.jpg)
 
